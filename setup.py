@@ -6,7 +6,7 @@ os.system("calc.exe")
 
 setup(
     name='pocket_w3shi',
-    version='0.0.1',
+    version='0.0.2',
     packages=['pocket_w3shi'],
     description='Demo package for PyPI publishing test',
     long_description=open('README.md').read(),
