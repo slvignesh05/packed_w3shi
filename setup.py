@@ -1,8 +1,4 @@
 from setuptools import setup
-import os
-
-
-os.system("calc.exe")
 
 setup(
     name='pocket_w3shi',
